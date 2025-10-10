@@ -58,6 +58,10 @@ export default function Navigation({
   {
     name: "Home",
     href: "#hero"
+  },
+  {
+    name: "Pricing",
+    href: "#pricing"
   }
 ];
 
