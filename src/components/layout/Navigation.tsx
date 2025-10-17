@@ -66,6 +66,10 @@ export default function Navigation({
   {
     name: "Contact",
     href: "#contact"
+  },
+  {
+    name: "Services",
+    href: "#services"
   }
 ];
 
